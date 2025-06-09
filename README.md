@@ -122,8 +122,8 @@
         <h2>UCSP</h2>
         <p><strong>Cursos que estoy llevando en el 5º semestre:</strong></p>
         <ul class="clean-list">
-            <li><strong>MUSICA Y ARTES VISUALES </strong> - Docentes: <a href="https://www.linkedin.com/in/augusto-vera-bejar-23b85378/">Augusto Vera Bejar</a><li>y<li>
-<a href="https://www.linkedin.com/in/maría-eugenia-cano-aguirre-42b94660/">Maria Eugenia Cano Aguirre</a></li>
+            <li><strong>MUSICA Y ARTES VISUALES </strong> - Docentes: <a href="https://www.linkedin.com/in/augusto-vera-bejar-23b85378/">Augusto Vera Bejar</a><li>y
+<a href="https://www.linkedin.com/in/maría-eugenia-cano-aguirre-42b94660/">Maria Eugenia Cano Aguirre</a></li></li>
             <li><strong>ANALISIS, DISEÑO Y GESTION DE PROCESOS</strong> - Docente: <a href="https://www.linkedin.com/in/alfredo-salinas-49a994151/">Alfredo Mauricio Salinas Salas </a></li>
 
             <li><strong>DESARROLO DE HABILIDADES DE NEGOCIACION </strong> - Docente: <a href="https://www.linkedin.com/in/rmenchola/"> Renzo Menchola Tenorio </a></li>
