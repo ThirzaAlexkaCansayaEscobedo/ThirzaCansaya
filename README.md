@@ -123,10 +123,10 @@
         <p><strong>Cursos que estoy llevando en el 5º semestre:</strong></p>
         <ul class="clean-list">
             <li><strong>MUSICA Y ARTES VISUALES </strong> - Docentes: <a href="https://www.linkedin.com/in/augusto-vera-bejar-23b85378/">Augusto Vera Bejar</a><li>y<li>
-                                                                     <a href="https://www.linkedin.com/in/maría-eugenia-cano-aguirre-42b94660/">Maria Eugenia Cano Aguirre</a></li>
+<a href="https://www.linkedin.com/in/maría-eugenia-cano-aguirre-42b94660/">Maria Eugenia Cano Aguirre</a></li>
             <li><strong>ANALISIS, DISEÑO Y GESTION DE PROCESOS</strong> - Docente: <a href="https://www.linkedin.com/in/alfredo-salinas-49a994151/">Alfredo Mauricio Salinas Salas </a></li>
 
-            <li><strong>DESARROLO DE HABILIDADES DE NEGOSIACION </strong> - Docente: <a href="https://www.linkedin.com/in/rmenchola/"> Renzo Menchola Tenorio </a></li>
+            <li><strong>DESARROLO DE HABILIDADES DE NEGOCIACION </strong> - Docente: <a href="https://www.linkedin.com/in/rmenchola/"> Renzo Menchola Tenorio </a></li>
             <li><strong>MICROECONOMIA</strong> - Docente: <a href="https://www.linkedin.com/in/narda-cecilia-valderrama-pacheco-3213ab35/">Narda Cecilia Valderrama Pacheco </a></li>
             <li><strong>MORAL </strong> - Docente:<a href="https://www.linkedin.com/in/joseph-zea-castillo-37065b264/"> Joseph Efrain Zea Castillo</a></li>
             <li><strong>PERSONA Y FAMILIA </strong> - Docente:<a href="https://www.linkedin.com/in/juan-ignacio-angulo-cuba-b1b46035/"> Juan Ignasio Angulo Cuba</a></li>
