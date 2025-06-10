@@ -94,8 +94,8 @@
     <h1>Thirza Alexka Cansaya Escobedo</h1>
 
     <div class="content-box">
-        <h3>Hola, mi nombre es THIRZA CANSAYA ESCOBEDO</h3>
-        <p>Tengo 19 años y resido en el distrito de Socabaya , en la ciudad de Arequipa. en mi tiempo libre disfruto  de dormir ,escuchar musica ,dibujar ,ver series ,leer y salir con  mis primos . Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
+        <h3>Hola, mi nombre es Thirza Alexka Cansaya Escobedo</h3>
+        <p>Tengo 19 años y resido en el distrito de Socabaya , en la ciudad de Arequipa. en mi tiempo libre disfruto  de dormir, escuchar música, dibujar, ver series, leer y salir con  mis primos . Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
 
 
     <div class="content-box">
@@ -103,7 +103,7 @@
         <ul>
             <li><strong>Educación Primaria y Secundaria:</strong>
                 <ul class="clean-list">
-                    <li><a href="https://santisimosalvador.edu.pe/">I.E.P SANTISIMO SALVADOR</a></li>
+                    <li><a href="https://santisimosalvador.edu.pe/">I.E.P Santísimo Salvador</a></li>
                 </ul>
             </li>
             <li><strong>Educación Superior:</strong>
