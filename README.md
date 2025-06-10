@@ -117,7 +117,7 @@
         </ul>
     </div>
 
-    <div class="content-box">
+<div class="content-box">
         <h2>UCSP</h2>
         <p><strong>Cursos que estoy llevando en el 5º semestre:</strong></p>
         <ul class="clean-list">
