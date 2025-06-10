@@ -182,7 +182,7 @@
                             <button class="dropdown-btn" onclick="toggleDropdown()">Compañeros</button>
                             <ul class="dropdown-content" id="dropdown-list">
                                 <li><a href="https://salvaramen.github.io/">Maria Fernanda Apaza Meza</a></li>
-                                <li><a href="https://samantaparedes.thsite.top/?i=1">Samanta Yarid Paredes Kana</a></li>
+                                <li><a href="https://samantaparedes.thsite.top/?i=1">Alvaro Apaza Luque</a></li>
                                 <li><a href="https://valeriamayta.github.io/">Valeria Andrea Mayta Butilier</a></li>
                                 <li><a href="https://valeriamayta.github.io/">Valeria Andrea Mayta Butilier</a></li> 
                                 <li><a href="https://diegoantoniomontalvomamani.github.io/page/index.html">Diego Antonio Montalvo Mamani</a></li>
