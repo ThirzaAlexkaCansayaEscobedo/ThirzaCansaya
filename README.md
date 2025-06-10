@@ -21,7 +21,7 @@
         h1 {
             text-align: center;
             color: #008B8B;
-            background-color: #25F9EA0;
+            background-color: #5F9EA0;
             padding: 20px;
             border-radius: 10px;
             margin: 20px 0;
@@ -31,7 +31,7 @@
 
         a {
             text-decoration: none;
-            color: #b33951;
+            color: #008080;
             font-weight: bold;
         }
 
