@@ -85,7 +85,7 @@
         .course-list {
             margin-left: 10px;
             padding: 5px;
-            border-left: 2px solid #ffc1d3;
+            border-left: 2px solid #008080;
         }
     </style>
 </head>
