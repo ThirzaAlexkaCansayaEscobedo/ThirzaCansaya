@@ -126,7 +126,7 @@
             <style>
                 /* Estilo para el botón desplegable */
                 .dropdown-btn {
-                    background-color: #e288f8; /* Morado de la paleta */
+                    background-color: #7fffd4; /* Morado de la paleta */
                     color: rgb(77, 7, 73);
                     padding: 10px 20px;
                     border: none;
@@ -139,7 +139,7 @@
                     font-weight: bold;
                 }                                                                                                                                                                                                       
                 .dropdown-btn:hover {
-                    background-color: #8fbc8b; /* Cambio de color al pasar el ratón */
+                    background-color: #40E0D0; /* Cambio de color al pasar el ratón */
                 }                                                                                            
                 /* Estilo para el contenido desplegable */
                 .dropdown-content {
@@ -161,7 +161,7 @@
         
                 .dropdown-content li a {
                     text-decoration: none;
-                    color: #2f4f4f;
+                    color: #2F4F4F;
                 }
         
                 .dropdown-content li a:hover {
