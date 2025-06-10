@@ -9,10 +9,10 @@
         /* General styling */
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #ffeef0;
+            background-color: #F5FFFA;
             margin: 0;
             padding: 0;
-            color: #5f3147;
+            color: #2F4F4F;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -21,7 +21,7 @@
         h1 {
             text-align: center;
             color: #008B8B;
-            background-color: #20B2AA;
+            background-color: #25F9EA0;
             padding: 20px;
             border-radius: 10px;
             margin: 20px 0;
