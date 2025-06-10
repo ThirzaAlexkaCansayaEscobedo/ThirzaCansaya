@@ -175,6 +175,7 @@
             <ul class="clean-list">
                 <ul class="course-list">
                 <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
+                </ul>
             </ul>
         </li>
     </ul>
