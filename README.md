@@ -139,13 +139,13 @@
                     font-weight: bold;
                 }                                                                                                                                                                                                       
                 .dropdown-btn:hover {
-                    background-color: #9C27B0; /* Cambio de color al pasar el ratón */
+                    background-color: #8fbc8b; /* Cambio de color al pasar el ratón */
                 }                                                                                            
                 /* Estilo para el contenido desplegable */
                 .dropdown-content {
                     display: none;
                     position: absolute;
-                    background-color: #5f9ea0;
+                    background-color: #ffffff;
                     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
                     padding: 10px 20px; /* Ajuste de márgenes */
                     list-style-type: none;
