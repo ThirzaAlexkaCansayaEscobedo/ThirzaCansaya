@@ -109,8 +109,8 @@
                 <ul class="clean-list">
                          <ul class="course-list">
                             <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
-        </ul>
-    </div>
+             </ul>
+        </div>
 
 <div class="content-box">
         <h2>UCSP</h2>
@@ -137,17 +137,15 @@
                     width: 53%;
                     text-align: left;
                     font-weight: bold;
-                }                                                                                            
-
+                }                                                                                                                                                                                                       
                 .dropdown-btn:hover {
                     background-color: #9C27B0; /* Cambio de color al pasar el ratón */
-                }
-        
+                }                                                                                            
                 /* Estilo para el contenido desplegable */
                 .dropdown-content {
                     display: none;
                     position: absolute;
-                    background-color: #ffffff;
+                    background-color: #5f9ea0;
                     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
                     padding: 10px 20px; /* Ajuste de márgenes */
                     list-style-type: none;
@@ -163,7 +161,7 @@
         
                 .dropdown-content li a {
                     text-decoration: none;
-                    color: #611450;
+                    color: #2f4f4f;
                 }
         
                 .dropdown-content li a:hover {
