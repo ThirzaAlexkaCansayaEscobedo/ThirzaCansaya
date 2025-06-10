@@ -89,7 +89,7 @@
 
 <div class="content-box">
         <h3>Hola, mi nombre es Thirza Alexka Cansaya Escobedo</h3>
-        <p>Tengo 19 años y resido en el distrito de Socabaya , en la ciudad de Arequipa. en mi tiempo libre disfruto  de dormir, escuchar música, dibujar, ver series, leer y salir con  mis primos . Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
+        <p>Tengo 19 años y resido en el distrito de Socabaya , en la ciudad de Arequipa. en mi tiempo libre disfruto  de dormir, escuchar música, dibujar, ver series, leer y salir con  mis primos. Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.
 </div>
 <div class="content-box">
     <h2>Estudios</h2>
@@ -103,8 +103,8 @@
                 <ul class="clean-list">
                          <ul class="course-list">
                             <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
-             </ul>
-        </div>
+        </ul>
+</div>
 
 <div class="content-box">
         <h2>UCSP</h2>
