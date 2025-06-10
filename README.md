@@ -9,7 +9,7 @@
         /* General styling */
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #66CDAA;
+            background-color: #F0FFF0;
             margin: 0;
             padding: 0;
             color: #2F4F4F;
@@ -21,7 +21,7 @@
         h1 {
             text-align: center;
             color: #008B8B;
-            background-color: #5F9EA0;
+            background-color: #66CDAA;
             padding: 20px;
             border-radius: 10px;
             margin: 20px 0;
