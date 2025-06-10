@@ -109,9 +109,6 @@
                 <ul class="clean-list">
                          <ul class="course-list">
                             <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
-                    </li>
-                </ul>
-            </li>
         </ul>
     </div>
 
@@ -194,7 +191,6 @@
                             <ul class="dropdown-content" id="dropdown-list">
                                 <li><a href="https://salvaramen.github.io/">Maria Fernanda Apaza Meza</a></li>
                                 <li><a href="https://samantaparedes.thsite.top/?i=1">Samanta Yarid Paredes Kana</a></li>
-                               zmanucsp.s3.us-east-1.amazonaws.com/index.html">Diego Martín Guzmán Rojas </a></li>
                                 <li><a href="https://valeriamayta.github.io/">Valeria Andrea Mayta Butilier</a></li>
                                 <li><a href="https://valeriamayta.github.io/">Valeria Andrea Mayta Butilier</a></li> 
                                 <li><a href="https://diegoantoniomontalvomamani.github.io/page/index.html">Diego Antonio Montalvo Mamani</a></li>
