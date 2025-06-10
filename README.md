@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+title: "Thirza Alexka - Portafolio"  
+---
+# Thirza Alexka Cansaya Escobedo  
+...<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
