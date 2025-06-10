@@ -110,7 +110,7 @@
                 <ul class="clean-list">
         
                         <ul class="course-list">
-                            <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
+                            <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li></li>
                         </ul>
                     </li>
                 </ul>
@@ -219,6 +219,5 @@
               
         </ul>
     </div>
-
-</body>
+</body>}
 </html>
