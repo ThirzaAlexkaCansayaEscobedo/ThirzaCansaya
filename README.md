@@ -58,7 +58,7 @@
             width: 90%;
             padding: 20px;
             margin: 10px 0;
-            background: linear-gradient(135deg, #FOFFFO, #66CDAA);
+            background: linear-gradient(135deg, #66CDAA, #66CDAA);
             border-radius: 10px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             text-align: justify;
