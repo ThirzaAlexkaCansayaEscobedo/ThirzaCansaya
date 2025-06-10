@@ -9,7 +9,7 @@
         /* General styling */
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #F5FFFA;
+            background-color: #66CDAA;
             margin: 0;
             padding: 0;
             color: #2F4F4F;
@@ -58,7 +58,7 @@
             width: 90%;
             padding: 20px;
             margin: 10px 0;
-            background: linear-gradient(135deg, #5F9EA0, #FOFFFO);
+            background: linear-gradient(135deg, #5F9EA0, #66CDAA);
             border-radius: 10px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
             text-align: justify;
