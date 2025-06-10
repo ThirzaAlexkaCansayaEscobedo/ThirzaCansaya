@@ -122,7 +122,6 @@
             <li><strong>MUSICA Y ARTES VISUALES </strong> - Docentes: <a href="https://www.linkedin.com/in/augusto-vera-bejar-23b85378/">Augusto Vera Bejar</a><li>y
 <a href="https://www.linkedin.com/in/maría-eugenia-cano-aguirre-42b94660/">Maria Eugenia Cano Aguirre</a></li></li>
             <li><strong>ANALISIS, DISEÑO Y GESTION DE PROCESOS</strong> - Docente: <a href="https://www.linkedin.com/in/alfredo-salinas-49a994151/">Alfredo Mauricio Salinas Salas </a></li>
-
             <li><strong>DESARROLO DE HABILIDADES DE NEGOCIACION </strong> - Docente: <a href="https://www.linkedin.com/in/rmenchola/"> Renzo Menchola Tenorio </a></li>
             <li><strong>MICROECONOMIA</strong> - Docente: <a href="https://www.linkedin.com/in/narda-cecilia-valderrama-pacheco-3213ab35/">Narda Cecilia Valderrama Pacheco </a></li>
             <li><strong>MORAL </strong> - Docente:<a href="https://www.linkedin.com/in/joseph-zea-castillo-37065b264/"> Joseph Efrain Zea Castillo</a></li>
@@ -141,8 +140,8 @@
                     width: 53%;
                     text-align: left;
                     font-weight: bold;
-                }
-        
+                }                                                                                            
+
                 .dropdown-btn:hover {
                     background-color: #9C27B0; /* Cambio de color al pasar el ratón */
                 }
@@ -193,7 +192,7 @@
                         <li>
                             <button class="dropdown-btn" onclick="toggleDropdown()">Compañeros</button>
                             <ul class="dropdown-content" id="dropdown-list">
-                                <li><a href="https://salvaramen.github.io/">Salvador Jesús Ramos Mendoza</a></li>
+                                <li><a href="https://salvaramen.github.io/">Maria Fernanda Apaza Meza</a></li>
                                 <li><a href="https://samantaparedes.thsite.top/?i=1">Samanta Yarid Paredes Kana</a></li>
                                zmanucsp.s3.us-east-1.amazonaws.com/index.html">Diego Martín Guzmán Rojas </a></li>
                                 <li><a href="https://valeriamayta.github.io/">Valeria Andrea Mayta Butilier</a></li>
