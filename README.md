@@ -20,8 +20,8 @@
 
         h1 {
             text-align: center;
-            color: #d45478;
-            background-color: #ffc1d3;
+            color: #008B8B;
+            background-color: #5F9EA0;
             padding: 20px;
             border-radius: 10px;
             margin: 20px 0;
