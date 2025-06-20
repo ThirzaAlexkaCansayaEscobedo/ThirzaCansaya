@@ -36,7 +36,7 @@
             border-radius: 10px;
             margin: 20px 0;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            width: 90%;
+            width: 100%;
         }
         nav {
            display: flex;
@@ -189,6 +189,11 @@
                 width: 100%;
             }
         }
+        html {
+        scroll-behavior: smooth;
+        scroll-padding-top: 100px; /* Ajusta el número según la altura de tu header */
+             }
+
     </style>
 </head>
 <body>
@@ -196,14 +201,14 @@
 <div class="header-container">
   <h1>Thirza Alexka Cansaya Escobedo</h1>
   <nav>
+    <a href="#sobremi">Sobre Mi</a> 
     <a href="#estudios">Estudios</a>
     <a href="#UCSP">UCSP</a>
-    <a href="#companeros">Compañeros</a>
     <a href="#contacto">Contacto</a>
   </nav>
 </div>
 
-<div class="content-box">
+<div class="content-box" id= "sobre mi">
     <h3>Hola, mi nombre es Thirza Alexka Cansaya Escobedo</h3>
     <p>Tengo 19 años y resido en el distrito de Socabaya, en la ciudad de Arequipa. En mi tiempo libre disfruto de dormir, escuchar música, dibujar, ver series, leer y salir con mis primos. Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.</p>
 </div>
