@@ -8,17 +8,20 @@
     <meta name="keywords" content="Thirza, Cansaya, UCSP, Arequipa, Administración, estudiante, Perú">
     <meta name="author" content="Thirza Alexka Cansaya Escobedo">
 
-    <!-- ✅ Open Graph (Facebook, WhatsApp, etc.) -->
+    <!-- Open Graph -->
     <meta property="og:title" content="Thirza Alexka Cansaya Escobedo">
     <meta property="og:description" content="Conoce a Thirza, estudiante de Administración en la UCSP. Descubre sus estudios, cursos y más.">
     <meta property="og:url" content="https://thirzaalexkacansayaescobedo.github.io/ThirzaCansaya/">
     <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Thirza Alexka Cansaya Escobedo">
     <meta name="twitter:description" content="Conoce a Thirza, estudiante de Administración en la UCSP. Descubre sus cursos y más.">
+
     <link rel="icon" href="favicon.ico">
+
     <style>
-        /* General styling */
         body {
             font-family: 'Gideon Roman', sans-serif;
             background-color: #ccffee;
@@ -29,6 +32,7 @@
             flex-direction: column;
             align-items: center;
         }
+
         .header-container {
             width: 100%;
             background-color: #8bdac0;
@@ -43,54 +47,36 @@
             text-align: center;
             color: #008B8B;
             background-color: #8bdac0;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px 0;
+            margin: 0;
             width: 100%;
             font-size: 36px;
         }
+
         nav {
             display: flex;
-           flex-wrap: nowrap;
-            justify-content: flex-start;
-            gap: 20px;
-            padding: 10px 20px;
+            justify-content: space-around;
+            padding: 10px 0;
             background-color: #8bdac0;
-            overflow-x: auto;
-            white-space: nowrap;
-            -webkit-overflow-scrolling: touch;
-        }
-
-        nav a {
-            flex: 0 0 auto; /* evita que se compriman */
-            color: #004d4d;
-            text-decoration: none;
-            font-weight: bold;
-            padding: 10px 10px;
-        }
-
-       @media (max-width: 768px) {
-        nav {
-            flex-direction: row;
-            justify-content: center;
             flex-wrap: wrap;
         }
 
         nav a {
-             padding: 10px;
+            color: #004d4d;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 10px 15px;
         }
-     ]
-           
-            h1 {
-                font-size: 26px;
-                padding: 15px;
-                margin: 10px 0;
+
+        @media (max-width: 768px) {
+            nav {
+                flex-direction: row;
+                justify-content: center;
+                flex-wrap: wrap;
             }
 
-            .content-box {
-                width: 95%;
-                padding: 15px;
+            nav a {
+                padding: 10px;
             }
         }
 
@@ -100,27 +86,27 @@
             font-size: 14px;
             color: #444;
         }
-        
+
         a {
             text-decoration: none;
             color: #008080;
             font-weight: bold;
         }
-        
+
         a:hover {
             color: #008B8B;
         }
-        
+
         ul {
             list-style-type: none;
             padding: 0;
             width: 90%;
         }
-        
+
         ul ul {
             padding-left: 20px;
         }
-        
+
         li {
             margin: 10px 0;
         }
@@ -142,7 +128,6 @@
             line-height: 1.6;
         }
 
-        /* Remove unnecessary borders */
         .clean-list {
             border: none;
             padding: 0;
@@ -153,14 +138,12 @@
             margin: 0;
         }
 
-        /* Adjust text inside lists */
         .course-list {
             margin-left: 10px;
             padding: 5px;
             border-left: 2px solid #008080;
         }
 
-        /* Estilo para el botón desplegable */
         .dropdown-btn {
             background-color: #78d3b5;
             color: rgb(77, 7, 73);
@@ -174,12 +157,11 @@
             text-align: left;
             font-weight: bold;
         }
-        
+
         .dropdown-btn:hover {
             background-color: #66CDAA;
         }
-        
-        /* Estilo para el contenido desplegable */
+
         .dropdown-content {
             display: none;
             position: absolute;
@@ -207,43 +189,41 @@
             color: #008080;
         }
 
-        /* Mostrar el contenido desplegable cuando el botón es clickeado */
         .show {
             display: block;
         }
 
-        /* Para hacer el comportamiento visible en dispositivos móviles */
         @media (max-width: 768px) {
             .dropdown-content {
                 position: static;
                 box-shadow: none;
                 width: 100%;
             }
-            
+
             .dropdown-btn {
                 width: 100%;
             }
         }
-        html {
-        scroll-behavior: smooth;
-        scroll-padding-top: 150px; /* Ajusta el número según la altura de tu header */
-        }
 
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: 150px;
+        }
     </style>
 </head>
 <body>
 
 <div class="header-container">
-  <h1>Thirza Alexka Cansaya Escobedo</h1>
-  <nav>
-    <a href="#sobre mi">Sobre Mí</a> 
-    <a href="#estudios">Estudios</a>
-    <a href="#UCSP">UCSP</a>
-    <a href="#contacto">Contacto</a>
-  </nav>
+    <h1>Thirza Alexka Cansaya Escobedo</h1>
+    <nav>
+        <a href="#sobre mi">Sobre Mí</a>
+        <a href="#estudios">Estudios</a>
+        <a href="#UCSP">UCSP</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
 </div>
 
-<div class="content-box" id= "sobre mi">
+<div class="content-box" id="sobre mi">
     <h3>Hola, mi nombre es Thirza Alexka Cansaya Escobedo</h3>
     <p>Tengo 19 años y resido en el distrito de Socabaya, en la ciudad de Arequipa. En mi tiempo libre disfruto de dormir, escuchar música, dibujar, ver series, leer y salir con mis primos. Actualmente, estoy cursando la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/">Universidad Católica San Pablo</a>.</p>
 </div>
@@ -259,7 +239,7 @@
         <li><strong>Educación Superior:</strong>
             <ul class="clean-list">
                 <ul class="course-list">
-                <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
+                    <li>Actualmente cursando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">Administración de Empresas</a></li>
                 </ul>
             </ul>
         </li>
@@ -278,13 +258,12 @@
         <li><strong>Persona, Matrimonio y Familia</strong> - Docente: <a href="https://www.linkedin.com/in/juan-ignacio-angulo-cuba-b1b46035/">Juan Ignacio Angulo Cuba</a></li>
         <li><strong>Análisis de Datos</strong> - Docente: <a href="https://www.linkedin.com/in/ecuadrosv/">Ernesto Cuadros Vargas</a>
             <ul class="course-list">
-                <!-- Botón desplegable para compañeros -->
                 <li>
                     <button class="dropdown-btn" onclick="toggleDropdown()" id="compañeros">Compañeros</button>
                     <ul class="dropdown-content" id="dropdown-list">
                         <li><a href="https://mariafernandaapazameza.github.io/Maria-Fernanda-Apaza-Meza/">Maria Fernanda Apaza Meza</a></li>
-                        <li><a href="https://angueli08.github.io/Angueli-Briyith-Calderon-Ccama/">Angueli Briyith Calderón Ccama</ a></li>
-                        <li><a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Enrique Apaza Luque</ a></li>
+                        <li><a href="https://angueli08.github.io/Angueli-Briyith-Calderon-Ccama/">Angueli Briyith Calderón Ccama</a></li>
+                        <li><a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Enrique Apaza Luque</a></li>
                         <li><a href="https://flabiatunquipa.github.io/mi-pagina-personal/">Flabia Stephanie Tunquipa Paripancca</a></li>
                     </ul>
                 </li>
@@ -292,6 +271,7 @@
         </li>
     </ul>
 </div>
+
 <div class="content-box" id="contacto">
     <h2>Contacto</h2>
     <p>📧 Correo: <a href="mailto:thirza.cansaya@ucsp.edu.pe">thirza.cansaya@ucsp.edu.pe</a></p>
@@ -304,13 +284,11 @@
 </footer>
 
 <script>
-    // Función para alternar la visibilidad de la lista de compañeros
     function toggleDropdown() {
         var dropdown = document.getElementById("dropdown-list");
         dropdown.classList.toggle("show");
     }
-    
-    // Cerrar el menú desplegable si se hace clic fuera de él
+
     window.onclick = function(event) {
         if (!event.target.matches('.dropdown-btn')) {
             var dropdowns = document.getElementsByClassName("dropdown-content");
